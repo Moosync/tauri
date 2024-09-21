@@ -197,7 +197,7 @@
       },
       "audioSettings_tooltip": "Настройки, связанные с воспроизведением аудио",
       "gapless_skip": "Пропустить песню до окончания (секунды)",
-      "gapless_skip_tooltip": "Forcefully switches to next song (seconds) before the current song ends",
+      "gapless_skip_tooltip": "Принудительно переключается на следующую песню (секунды) до окончания текущей песни",
       "invidiousUrlUnsupported": "Эта ссылка не поддерживает Invidious API",
       "invidious_tooltip": "Invidious экземпляр для использования вместо youtube",
       "restartApp": "Перезапустить Moosync",
