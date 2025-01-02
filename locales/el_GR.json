@@ -8,7 +8,7 @@
       "artists": "Καλλιτέχνες",
       "genre": "Είδη",
       "explore": "Εξερεύνηση",
-      "paths": "Διαδρομές",
+      "paths": "My Music",
       "themes": "Θέματα",
       "extensions": "Επεκτάσεις",
       "system": "Σύστημα",
@@ -97,8 +97,8 @@
       "showHidden": "Εμφάνιση κρυφών τραγουδιών",
       "hideHidden": "Απόκρυψη κρυφών τραγουδιών",
       "openInBrowser": "Άνοιγμα σε πρόγραμμα περιήγησης",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Κατάλογοι Τραγουδιών",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Κατάλογοι όπου αποθηκεύονται όλες οι τοπικές μουσικές σας",
-      "songDirectories_exclude": "Κατάλογοι στη Μαύρη λίστα",
-      "songDirectories_exclude_tooltip": "Τα τραγούδια σε αυτούς τους καταλόγους δεν θα σαρωθούν",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Προσθήκη Φακέλου...",
       "remove": "Αφαίρεση",
       "artworkPath": "Ληφθείσες Διαδρομές Έργων",

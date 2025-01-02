@@ -8,7 +8,7 @@
       "artists": "Artistes",
       "genre": "Genres",
       "explore": "Explorer",
-      "paths": "Paths",
+      "paths": "My Music",
       "themes": "Thèmes",
       "extensions": "Extensions",
       "system": "System",
@@ -97,8 +97,8 @@
       "showHidden": "Afficher les chansons masquées",
       "hideHidden": "Masquer les chansons masquées",
       "openInBrowser": "Open in browser",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Répertoires de chansons",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Répertoires où toutes vos musiques locales sont stockées",
-      "songDirectories_exclude": "Liste noire des dossiers",
-      "songDirectories_exclude_tooltip": "Les chansons dans ce dossier ne seront pas analysées",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Ajouter un dossier...",
       "remove": "Retirer",
       "artworkPath": "Chemin de l'œuvre téléchargée",

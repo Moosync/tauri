@@ -8,7 +8,7 @@
       "artists": "アーティスト",
       "genre": "ジャンル",
       "explore": "探索",
-      "paths": "パス",
+      "paths": "My Music",
       "themes": "テーマ",
       "extensions": "拡張機能",
       "system": "システム",
@@ -97,8 +97,8 @@
       "showHidden": "非表示の曲を表示",
       "hideHidden": "非表示の曲を非表示",
       "openInBrowser": "ブラウザで開く",
-      "gotoAlbum": "アルバムを開く({title})",
-      "gotoArtists": "アーティストを開く"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "アーティストを削除"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "曲のディレクトリ",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "音楽が保存されている端末内のすべてのディレクトリ",
-      "songDirectories_exclude": "ブラックリストに登録されたディレクトリ",
-      "songDirectories_exclude_tooltip": "これらのディレクトリ内の曲はスキャンされません",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "フォルダを追加...",
       "remove": "削除",
       "artworkPath": "ダウンロードされたアートワークのパス",

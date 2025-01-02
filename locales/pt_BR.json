@@ -8,7 +8,7 @@
       "artists": "Artistas",
       "genre": "Gêneros",
       "explore": "Explorar",
-      "paths": "Paths",
+      "paths": "My Music",
       "themes": "Themes",
       "extensions": "Extensions",
       "system": "System",
@@ -97,8 +97,8 @@
       "showHidden": "Mostrar músicas ocultas",
       "hideHidden": "Ocultar músicas ocultas",
       "openInBrowser": "Open in browser",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Diretórios de músicas",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Diretórios onde todas as suas músicas locais são armazenadas",
-      "songDirectories_exclude": "Diretórios na lista negra",
-      "songDirectories_exclude_tooltip": "As músicas nestes diretórios não seriam escaneadas",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Adicionar pasta...",
       "remove": "Remover",
       "artworkPath": "Caminho da Arte Baixada",

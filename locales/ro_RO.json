@@ -8,7 +8,7 @@
       "artists": "Artişti",
       "genre": "Genres",
       "explore": "Explorați",
-      "paths": "Paths",
+      "paths": "My Music",
       "themes": "Themes",
       "extensions": "Extensions",
       "system": "System",
@@ -97,8 +97,8 @@
       "showHidden": "Arată melodiile ascunse",
       "hideHidden": "Ascunde melodiile ascunse",
       "openInBrowser": "Open in browser",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Directoare melodii",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Directoare unde toată muzica ta locală este stocată",
-      "songDirectories_exclude": "Dosare blocate",
-      "songDirectories_exclude_tooltip": "Melodiile din aceste directoare nu ar fi scanate",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Adaugă Dosar...",
       "remove": "Elimină",
       "artworkPath": "Calea Artwork descărcată",

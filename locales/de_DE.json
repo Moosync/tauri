@@ -8,7 +8,7 @@
       "artists": "Künstler",
       "genre": "Genres",
       "explore": "Erkunden",
-      "paths": "Pfade",
+      "paths": "My Music",
       "themes": "Design",
       "extensions": "Erweiterungen",
       "system": "System",
@@ -97,8 +97,8 @@
       "showHidden": "Versteckte Titel anzeigen",
       "hideHidden": "Versteckte Titel ausblenden",
       "openInBrowser": "Im Browser öffnen",
-      "gotoAlbum": "Gehe zu Album ({title})",
-      "gotoArtists": "Gehe zu Künstler"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Künstler entfernen"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Songverzeichnisse",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Verzeichnisse, in denen deine Musik gespeichert ist",
-      "songDirectories_exclude": "Ignorierte Verzeichnisse",
-      "songDirectories_exclude_tooltip": "Titel in diesen Verzeichnissen werden nicht gescannt",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Ordner hinzufügen...",
       "remove": "Entfernen",
       "artworkPath": "Pfad für heruntergeladene Albumcover",

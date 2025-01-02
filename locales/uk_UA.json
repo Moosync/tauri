@@ -8,7 +8,7 @@
       "artists": "Виконавці",
       "genre": "Genres",
       "explore": "Досліджуйте",
-      "paths": "Paths",
+      "paths": "My Music",
       "themes": "Themes",
       "extensions": "Extensions",
       "system": "System",
@@ -97,8 +97,8 @@
       "showHidden": "Показувати приховані пісні",
       "hideHidden": "Сховати приховані пісні",
       "openInBrowser": "Open in browser",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Пісні каталоги",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Каталоги, де зберігається вся ваша локальна музика",
-      "songDirectories_exclude": "Заблоковані каталоги",
-      "songDirectories_exclude_tooltip": "Пісні у цих каталогах не будуть скановані",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Додати теку...",
       "remove": "Видалити",
       "artworkPath": "Завантажений шлях до артилерії",

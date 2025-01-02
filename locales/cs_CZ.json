@@ -8,7 +8,7 @@
       "artists": "Umělci",
       "genre": "Žánry",
       "explore": "Prozkoumat",
-      "paths": "Cesty",
+      "paths": "My Music",
       "themes": "Motivy",
       "extensions": "Rozšíření",
       "system": "Systém",
@@ -97,8 +97,8 @@
       "showHidden": "Zobrazit skryté skladby",
       "hideHidden": "Skrýt skryté skladby",
       "openInBrowser": "Otevřít v prohlížeči",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Adresáře skladeb",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Adresáře, kde jsou uloženy všechny místní skladby",
-      "songDirectories_exclude": "Černá listina adresářů",
-      "songDirectories_exclude_tooltip": "Skladby v těchto adresářích nebyly naskenovány",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Přidat složku...",
       "remove": "Odebrat",
       "artworkPath": "Cesta k obrázku alba",

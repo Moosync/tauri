@@ -8,7 +8,7 @@
       "artists": "Artiesten",
       "genre": "Genres",
       "explore": "Verken",
-      "paths": "Paths",
+      "paths": "My Music",
       "themes": "Themes",
       "extensions": "Extensions",
       "system": "System",
@@ -97,8 +97,8 @@
       "showHidden": "Verborgen nummers weergeven",
       "hideHidden": "Verborgen nummers verbergen",
       "openInBrowser": "Open in browser",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Nummer Mappen",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Mappen waar al uw lokale muziek is opgeslagen",
-      "songDirectories_exclude": "Geblokkeerde mappen",
-      "songDirectories_exclude_tooltip": "Nummers in deze mappen worden niet gescand",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Map toevoegen...",
       "remove": "Verwijderen",
       "artworkPath": "Gedownloade Artwork Pad",

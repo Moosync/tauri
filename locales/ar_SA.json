@@ -8,7 +8,7 @@
       "artists": "الفنانون",
       "genre": "Genres",
       "explore": "استكشف",
-      "paths": "Paths",
+      "paths": "My Music",
       "themes": "Themes",
       "extensions": "Extensions",
       "system": "System",
@@ -97,8 +97,8 @@
       "showHidden": "إظهار الأغاني المخفية",
       "hideHidden": "إخفاء الأغاني المخفية",
       "openInBrowser": "Open in browser",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "أدلة الأغنية",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "الدلائل حيث يتم تخزين جميع الموسيقى المحلية الخاصة بك",
-      "songDirectories_exclude": "مجلدات القائمة السوداء",
-      "songDirectories_exclude_tooltip": "لن يتم مسح الأغاني في هذه الدلائل",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "إضافة مجلد...",
       "remove": "إزالة",
       "artworkPath": "مسار الأعمال الفنية المحمّلة",

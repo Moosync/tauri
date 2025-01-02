@@ -8,7 +8,7 @@
       "artists": "歌手",
       "genre": "风格",
       "explore": "探索",
-      "paths": "路径",
+      "paths": "My Music",
       "themes": "主题",
       "extensions": "扩展程序",
       "system": "系统",
@@ -97,8 +97,8 @@
       "showHidden": "显示隐藏歌曲",
       "hideHidden": "不显示隐藏的歌曲",
       "openInBrowser": "在浏览器中打开",
-      "gotoAlbum": "转到专辑({title})",
-      "gotoArtists": "转到艺人"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "删除艺人"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "歌曲目录",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "存储您所有本地音乐的目录",
-      "songDirectories_exclude": "黑名单目录",
-      "songDirectories_exclude_tooltip": "这些目录中的歌曲不会被扫描",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "添加文件夹...",
       "remove": "移除",
       "artworkPath": "下载路径",

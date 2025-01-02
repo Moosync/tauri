@@ -8,7 +8,7 @@
       "artists": "Sanatçılar",
       "genre": "Türler",
       "explore": "Keşfet",
-      "paths": "Dosya Dizini",
+      "paths": "My Music",
       "themes": "Temalar",
       "extensions": "Eklentiler",
       "system": "Sistem Ayarları",
@@ -97,8 +97,8 @@
       "showHidden": "Gizlenmiş şarkıları göster",
       "hideHidden": "Gizlenmiş şarkıları gizle",
       "openInBrowser": "Tarayıcıda aç",
-      "gotoAlbum": "Albüme git ({title})",
-      "gotoArtists": "Sanatçıya git"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Sanatçıyı kaldır"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Şarkı Dizinleri",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Tüm yerel müziğinizin depolandığı dizinler",
-      "songDirectories_exclude": "Kara Listeye Alınmış Dizinler",
-      "songDirectories_exclude_tooltip": "Bu dizinlerdeki şarkılar taranmayacaktır",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Klasör Ekle...",
       "remove": "Kaldır",
       "artworkPath": "İndirilen Çizim Konumu",

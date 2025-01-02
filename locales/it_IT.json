@@ -8,7 +8,7 @@
       "artists": "Artisti",
       "genre": "Generi",
       "explore": "Esplora",
-      "paths": "Paths",
+      "paths": "My Music",
       "themes": "Themes",
       "extensions": "Extensions",
       "system": "System",
@@ -97,8 +97,8 @@
       "showHidden": "Mostra brani nascosti",
       "hideHidden": "Nascondi brani nascosti",
       "openInBrowser": "Open in browser",
-      "gotoAlbum": "Goto album ({title})",
-      "gotoArtists": "Goto artists"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Remove artist"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Posizione dei brani",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Posizione dei tuoi brani locali",
-      "songDirectories_exclude": "Directory Blacklist",
-      "songDirectories_exclude_tooltip": "Le canzoni in queste directory non verrebbero scansionate",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Aggiungi cartella...",
       "remove": "Rimuovi",
       "artworkPath": "Posizione degli Artwork scaricati",

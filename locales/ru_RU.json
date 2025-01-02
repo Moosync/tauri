@@ -8,7 +8,7 @@
       "artists": "Исполнители",
       "genre": "Жанры",
       "explore": "Обзор",
-      "paths": "Пути",
+      "paths": "My Music",
       "themes": "Темы",
       "extensions": "Расширения",
       "system": "Система",
@@ -97,8 +97,8 @@
       "showHidden": "Показать скрытые треки",
       "hideHidden": "Скрыть скрытые треки",
       "openInBrowser": "Открыть в браузере",
-      "gotoAlbum": "Перейти к альбому ({title})",
-      "gotoArtists": "Перейти к исполнителям"
+      "gotoAlbum": "Go to album ({title})",
+      "gotoArtists": "Go to artists"
     },
     "artist": {
       "remove": "Удалить исполнителя"
@@ -127,10 +127,10 @@
   },
   "settings": {
     "paths": {
-      "songDirectories": "Расположения треков",
+      "songDirectories": "Song Folders",
       "songDirectories_tooltip": "Папки с вашей локальной музыкой",
-      "songDirectories_exclude": "Папки в чёрный список",
-      "songDirectories_exclude_tooltip": "Треки в этих папках не будут просканированы",
+      "songDirectories_exclude": "Excluded Songs",
+      "songDirectories_exclude_tooltip": "Songs in these folders will not be included in the library",
       "addFolder": "Добавить папку...",
       "remove": "Убрать",
       "artworkPath": "Путь скачанной иллюстрации",
