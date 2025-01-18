@@ -90,7 +90,7 @@
       "moveManually": "指定し移動",
       "manualIndex": "曲の順番を設定",
       "remove": "ライブラリから削除",
-      "add": "ライブラリに曲を追加 | ライブラリに曲を追加",
+      "add": "Add Song to Library",
       "removeFromPlaylist": "再生リストから削除",
       "hideFromLibrary": "ライブラリから隠す",
       "showInLibrary": "ライブラリに表示",
